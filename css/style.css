@@ -1,0 +1,13 @@
+.bg-color{
+    background-color: #264653;
+}
+.button{
+    background-color: #E76F51;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 30px;
+    border: none;
+}
+span{
+    color: #E76F51;
+}
